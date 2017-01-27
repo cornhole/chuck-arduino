@@ -11,3 +11,9 @@ To compile:
 3. Copy to `hardware` directory
  * Arbotix (from forked repository in this organization)
 4. Open `chuck_throw.ino`, switch to `ArbotiX Std` Board
+
+## Author
+
+Tyler Frasca<br />
+tmfrasca@gmail.com<br />
+http://tmfrasca.info
