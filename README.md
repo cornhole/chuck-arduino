@@ -1,4 +1,4 @@
-# CHUCK Arduino Software
+# CHUCK: Arduino Software
 
 To compile:
 
